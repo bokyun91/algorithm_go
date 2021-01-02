@@ -32,4 +32,6 @@
 |  3   |   10950   |    [A+B - 3](https://www.acmicpc.net/problem/10950)    |           A+B를 여러 번 출력하는 문제           |      **성공**       | 2020-12-29 |
 |  3   |   8393    |       [합](https://www.acmicpc.net/problem/8393)       |         1부터 N까지의 합을 구하는 문제          |      **성공**       | 2020-12-29 |
 |  3   |   15552   |   [빠른 A+B](https://www.acmicpc.net/problem/15552)    |          빠르게 입력받고 출력하는 문제          | **성공**(속도 개선) | 2020-12-29 |
+|  3   |   2741    |     [N 찍기](https://www.acmicpc.net/problem/2741)     |            1부터 N까지 출력하는 문제            |      **성공**       | 2021-01-03 |
+|  3   |   2742    |     [기찍 N](https://www.acmicpc.net/problem/2742)     |            제문 는하력출 지까N 터부1            |      **성공**       | 2021-01-03 |
 
